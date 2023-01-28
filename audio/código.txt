@@ -1,0 +1,2 @@
+<p class="contenido0"><object type="application/x-shockwave-flash" data="u3/recursos/Audio/zplayer.swf?mp3=u3/recursos/Audio/shellyben_u3t1.mp3&c1=1583e9" width="200" height="20"/><param name="movie" value="u3/recursos/Audio/zplayer.swf?mp3=u3/recursos/Audio/shellyben_u3t1.mp3&c1=1583e9" /></object></p>
+<p class="contenido0"><a href="u3/recursos/Audio/shellyben_u3t1.mp3" target="_blank">(Si no puedes escuchar el audio puedes descargarlo aqui)</a></p>

@@ -1,0 +1,1727 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="componente_u1t1_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="componente_u1t1_archivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title> </title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Demonio</o:Author>
+  <o:LastAuthor>nordaz</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>76</o:TotalTime>
+  <o:LastPrinted>2008-05-26T18:23:00Z</o:LastPrinted>
+  <o:Created>2012-10-25T14:09:00Z</o:Created>
+  <o:LastSaved>2012-10-25T14:09:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>880</o:Words>
+  <o:Characters>4843</o:Characters>
+  <o:Lines>40</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>5712</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="componente_u1t1_archivos/themedata.thmx">
+<link rel=colorSchemeMapping
+href="componente_u1t1_archivos/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.5 pto</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-MX</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="0" Name="header"/>
+  <w:LsdException Locked="false" Priority="0" Name="footer"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="0" Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" Priority="0" Name="Hyperlink"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:ArialMT;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+h3
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:0cm;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-list:l0 level3 lfo1;
+	mso-hyphenate:none;
+	tab-stops:list 0cm;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES;
+	mso-fareast-language:AR-SA;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-unhide:no;
+	mso-style-link:"Texto comentario Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Encabezado Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 212.6pt right 425.2pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Pie de página Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 212.6pt right 425.2pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+span.MsoCommentReference
+	{mso-style-unhide:no;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoBodyTextIndent2, li.MsoBodyTextIndent2, div.MsoBodyTextIndent2
+	{mso-style-unhide:no;
+	mso-style-link:"Sangría 2 de t\. independiente Car";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:14.15pt;
+	line-height:200%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES;
+	mso-fareast-language:ES;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"Texto comentario";
+	mso-style-next:"Texto comentario";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+span.EncabezadoCar
+	{mso-style-name:"Encabezado Car";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Encabezado;
+	mso-ansi-language:ES-MX;}
+span.PiedepginaCar
+	{mso-style-name:"Pie de página Car";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Pie de página";
+	mso-ansi-language:ES-MX;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto de globo";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;
+	mso-ansi-language:ES-MX;}
+p.TableContents, li.TableContents, div.TableContents
+	{mso-style-name:"Table Contents";
+	mso-style-unhide:no;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+span.TextocomentarioCar
+	{mso-style-name:"Texto comentario Car";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto comentario";
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+span.AsuntodelcomentarioCar
+	{mso-style-name:"Asunto del comentario Car";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Texto comentario Car";
+	mso-style-link:"Asunto del comentario";
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+span.Sangra2detindependienteCar
+	{mso-style-name:"Sangría 2 de t\. independiente Car";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Sangría 2 de t\. independiente";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Arial;
+	mso-ansi-language:ES;
+	mso-fareast-language:ES;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("componente_u1t1_archivos/header.htm") fs;
+	mso-footnote-continuation-separator:url("componente_u1t1_archivos/header.htm") fcs;
+	mso-endnote-separator:url("componente_u1t1_archivos/header.htm") es;
+	mso-endnote-continuation-separator:url("componente_u1t1_archivos/header.htm") ecs;}
+@page WordSection1
+	{size:841.9pt 595.3pt;
+	mso-page-orientation:landscape;
+	margin:3.0cm 106.3pt 3.0cm 70.9pt;
+	mso-header-margin:35.45pt;
+	mso-footer-margin:35.45pt;
+	mso-even-header:url("componente_u1t1_archivos/header.htm") eh1;
+	mso-header:url("componente_u1t1_archivos/header.htm") h1;
+	mso-even-footer:url("componente_u1t1_archivos/header.htm") ef1;
+	mso-footer:url("componente_u1t1_archivos/header.htm") f1;
+	mso-first-header:url("componente_u1t1_archivos/header.htm") fh1;
+	mso-first-footer:url("componente_u1t1_archivos/header.htm") ff1;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1;
+	mso-list-template-ids:1;}
+@list l0:level1
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level2
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level3
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level4
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level5
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level6
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level7
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level8
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level9
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l1
+	{mso-list-id:280457950;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1032864044 134873103 134873113 134873115 134873103 134873113 134873115 134873103 134873113 134873115;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2
+	{mso-list-id:386605932;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1509877134 201981967 201981977 201981979 201981967 201981977 201981979 201981967 201981977 201981979;}
+@list l2:level1
+	{mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3
+	{mso-list-id:807630380;
+	mso-list-type:hybrid;
+	mso-list-template-ids:445053558 556677348 201981953 201981957 201981953 1975175026 288940610 201981953 201981955 201981957;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25AA;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l3:level6
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\2212;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	color:windowtext;}
+@list l4
+	{mso-list-id:810562176;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1143555890 -2092379882 134873113 134873115 134873103 134873113 134873115 134873103 134873113 134873115;}
+@list l4:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.25pt;
+	text-indent:-18.0pt;}
+@list l5
+	{mso-list-id:882521405;
+	mso-list-type:hybrid;
+	mso-list-template-ids:162450418 495629206 134873113 134873115 134873103 134873113 134873115 134873103 134873113 134873115;}
+@list l5:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:18.0pt;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:1054160377;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1397329936 777299534 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l6:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";}
+@list l7
+	{mso-list-id:1224104686;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1969245960 201981967 201981977 201981979 201981967 201981977 201981979 201981967 201981977 201981979;}
+@list l7:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l8
+	{mso-list-id:1395621139;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1740687682 201981967 201981977 201981979 201981967 201981977 201981979 201981967 201981977 201981979;}
+@list l8:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l9
+	{mso-list-id:1541013904;
+	mso-list-type:hybrid;
+	mso-list-template-ids:667212984 134873103 134873113 134873115 134873103 134873113 134873115 134873103 134873113 134873115;}
+@list l9:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+table.MsoTableGrid
+	{mso-style-name:"Tabla con cuadrícula";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:59;
+	mso-style-unhide:no;
+	border:solid black 1.0pt;
+	mso-border-alt:solid black .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid black;
+	mso-border-insidev:.5pt solid black;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="9218" fillcolor="white">
+  <v:fill color="white"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="2"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ES-MX link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 align=left
+ width=877 style='border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-table-lspace:7.05pt;margin-left:4.8pt;mso-table-rspace:7.05pt;margin-right:
+ 4.8pt;mso-table-anchor-vertical:page;mso-table-anchor-horizontal:margin;
+ mso-table-left:left;mso-table-top:124.85pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.55pt;mso-height-rule:
+  exactly'>
+  <td width=405 colspan=2 rowspan=2 valign=top style='width:303.75pt;
+  border:solid black 1.0pt;border-right:none;mso-border-top-alt:solid black .5pt;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:13.55pt;mso-height-rule:exactly'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><b><span style='font-size:
+  11.0pt'>Nivel Tema<o:p></o:p></span></b></p>
+  <p class=TableContents style='mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt'>Tema: 1<o:p></o:p></span></b></p>
+  <p class=TableContents style='mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt'>Unidad: I<o:p></o:p></span></b></p>
+  </td>
+  <td width=472 valign=top style='width:353.7pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:13.55pt;
+  mso-height-rule:exactly'>
+  <p class=MsoNormal style='layout-grid-mode:char;mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:
+  normal'><span style='color:blue'>Fecha:</span> <span style='color:red'>20 de
+  septiembre de 2012</span><o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:6.85pt'>
+  <td width=472 valign=top style='width:353.7pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:6.85pt'>
+  <p class=MsoNormal style='layout-grid-mode:char;mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'>Ap</b></span><b style='mso-bidi-font-weight:
+  normal'>: Fernando García Ruiz<o:p></o:p></b></p>
+  <p class=MsoNormal style='layout-grid-mode:char;mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:
+  normal'><span style='color:blue'>Responsable del ajuste:</span> <span
+  style='color:red'>Miguel Hernández Meneses</span><o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:22.75pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt'>
+  <p class=TableContents style='layout-grid-mode:char;mso-element:frame;
+  mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:124.85pt;
+  mso-height-rule:exactly'><b><span style='font-size:11.0pt'>Componente<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:22.75pt'>
+  <p class=MsoNormal style='layout-grid-mode:char;mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b style='mso-bidi-font-weight:
+  normal'>DESARROLLO<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:22.75pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.75pt'>
+  <p class=TableContents style='layout-grid-mode:char;mso-element:frame;
+  mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:124.85pt;
+  mso-height-rule:exactly'><b><span style='font-size:11.0pt'>Título<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:22.75pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:18.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l4 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char;mso-element:frame;mso-element-frame-hspace:7.05pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>1.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Conceptos
+  básicos de <i style='mso-bidi-font-style:normal'>ecología</i> y <i
+  style='mso-bidi-font-style:normal'>medioambiente</i><o:p></o:p></span></p>
+  <p class=MsoHeader style='margin-left:22.95pt;text-indent:-18.0pt;mso-list:
+  l3 level6 lfo9;tab-stops:35.4pt'><![if !supportLists]><span style='font-size:
+  12.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES style='font-size:12.0pt;
+  font-family:"Arial","sans-serif";mso-ansi-language:ES;mso-bidi-font-weight:
+  bold'>Niveles de organización de la naturaleza: m</span><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>arco conceptual de Chiapas.</span><span style='font-size:12.0pt;
+  font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+  <p class=MsoHeader style='margin-left:22.95pt;text-indent:-18.0pt;mso-list:
+  l3 level6 lfo9;tab-stops:35.4pt'><![if !supportLists]><span style='font-size:
+  12.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;font-family:
+  "Arial","sans-serif";mso-bidi-font-weight:bold'>Exósfera.</span><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:17.45pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:17.45pt'>
+  <p class=TableContents style='layout-grid-mode:char;mso-element:frame;
+  mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:124.85pt;
+  mso-height-rule:exactly'><b><span style='font-size:11.0pt'>Carga horaria<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:17.45pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><span style='font-size:
+  12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>6 horas<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:31.75pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:31.75pt'>
+  <p class=TableContents style='mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt'>Resultado de aprendizaje<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:31.75pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><span style='font-size:
+  12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Eres competente
+  cuando:<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:22.95pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l3 level6 lfo9;layout-grid-mode:char;
+  mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>&#8722;<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Identificas
+  los conceptos de <i style='mso-bidi-font-style:normal'>ecología</i> y <i
+  style='mso-bidi-font-style:normal'>medioambiente</i>.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-left:22.95pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l3 level6 lfo9;layout-grid-mode:char;
+  mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>&#8722;<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Identificas
+  los niveles de organización de la naturaleza.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:28.2pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:28.2pt'>
+  <p class=TableContents style='layout-grid-mode:char;mso-element:frame;
+  mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:124.85pt;
+  mso-height-rule:exactly'><b><span style='font-size:11.0pt'>Contenido /
+  descripción<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:28.2pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><span style='font-size:
+  12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Es necesario que
+  conozcas los conceptos básicos relacionados con el medioambiente y la
+  ecología para que te familiarices con la terminología que se va a utilizar en
+  esta unidad académica. De acuerdo con el significado etimológico de ecología,
+  la Tierra proporciona los recursos necesarios para subsistir: agua y
+  alimentos, y permite la convivencia entre seres vivos; por ello, es
+  importante<span style='color:red'> </span>saber cuál es el nivel de
+  organización de la naturaleza.<span style='color:red'><o:p></o:p></span></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><span style='font-size:
+  12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Este tema
+  representa el primer paso para que comiences a </span><span style='font-size:
+  12.0pt;mso-bidi-font-size:10.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-bidi-font-weight:bold'>conocer, comprender, interpretar y reflexionar
+  sobre la realidad circundante y los grandes problemas ambientales originados
+  por las actividades antropogénicas, objetivo que se pretende lograr cuando
+  concluyas la unidad académica.</span><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:23.25pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:23.25pt'>
+  <p class=TableContents style='mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><b><span
+  style='font-size:11.0pt'>Evidencias<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:23.25pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><span style='font-size:
+  12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Al finalizar el
+  tema debes mostrar, según el tipo, la siguiente cantidad de evidencias:<o:p></o:p></span></p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l6 level1 lfo7;layout-grid-mode:
+  char;mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:around;
+  mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
+  mso-element-top:124.85pt;mso-height-rule:exactly'><![if !supportLists]><span
+  lang=ES style='mso-fareast-font-family:Arial;mso-ansi-language:ES'><span
+  style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES style='mso-ansi-language:ES'>Conocimiento:
+  1<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;mso-yfti-lastrow:yes;height:24.25pt'>
+  <td width=111 valign=top style='width:83.4pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:24.25pt'>
+  <p class=TableContents style='layout-grid-mode:char;mso-element:frame;
+  mso-element-frame-hspace:7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  page;mso-element-anchor-horizontal:margin;mso-element-top:124.85pt;
+  mso-height-rule:exactly'><b><span style='font-size:11.0pt'>Fuentes de
+  información<o:p></o:p></span></b></p>
+  </td>
+  <td width=765 colspan=2 valign=top style='width:574.05pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:24.25pt'>
+  <p class=MsoBodyTextIndent2 style='margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:10.0pt;margin-left:1.0cm;text-align:justify;text-indent:-1.0cm;
+  line-height:150%;mso-element:frame;mso-element-frame-hspace:7.05pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><span
+  style='mso-bidi-font-family:Arial;mso-ansi-language:ES-MX'>Arboleda, Mary,
+  Armando <span class=SpellE>Junca</span> y Guido <span class=SpellE>Moncayo</span>.
+  (1999). ¿Qué significa ecología? [Extracto]. En <i style='mso-bidi-font-style:
+  normal'>Hacia una educación ambiental</i> (pp. 9-28). México: Oveja Negra.<o:p></o:p></span></p>
+  <p class=MsoBodyTextIndent2 style='margin-top:6.0pt;margin-right:0cm;
+  margin-bottom:10.0pt;margin-left:1.0cm;text-align:justify;text-indent:-1.0cm;
+  line-height:150%;tab-stops:17.1pt;mso-element:frame;mso-element-frame-hspace:
+  7.05pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
+  margin;mso-element-top:124.85pt;mso-height-rule:exactly'><span lang=ES
+  style='mso-bidi-font-family:Arial'>Smith, Robert Leo. (2000). Naturaleza de
+  la ecología [Extracto]. En <i style='mso-bidi-font-style:normal'>Ecología</i>
+  (pp. 4-8).<span style='mso-spacerun:yes'>  </span>Estados Unidos de América: <span
+  class=SpellE>Addison</span> <span class=SpellE>Wesley</span>.</span><i
+  style='mso-bidi-font-style:normal'><span style='mso-bidi-font-family:Arial;
+  mso-ansi-language:ES-MX'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=111 style='border:none'></td>
+  <td width=294 style='border:none'></td>
+  <td width=472 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=883
+ style='border-collapse:collapse;mso-table-layout-alt:fixed;mso-padding-alt:
+ 2.75pt 2.75pt 2.75pt 2.75pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.15pt'>
+  <td width=109 valign=top style='width:82.0pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>ACTIVIDADES<o:p></o:p></span></b></p>
+  </td>
+  <td width=461 valign=top style='width:346.0pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>DESARROLLO<o:p></o:p></span></b></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>TIPO DE
+  RECURSOS<o:p></o:p></span></b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>DESCRIPCIÓN<o:p></o:p></span></b></p>
+  </td>
+  <td width=132 valign=top style='width:99.2pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>RETROALIMENTACIÓN<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:11.15pt'>
+  <td width=109 valign=top style='width:82.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-top-alt:solid black .25pt;mso-border-top-alt:solid black .25pt;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;layout-grid-mode:
+  char'><b><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt'>Actividad
+  de aprendizaje 1<o:p></o:p></span></b></p>
+  </td>
+  <td width=461 valign=top style='width:346.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-top-alt:solid black .25pt;mso-border-top-alt:solid black .25pt;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:11.15pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'>La naturaleza presenta diferentes niveles de organización, conocerlos
+  es importante para que puedas identificar las diferentes estructuras que lo
+  conforman, y así planear su cuidado.</p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'>Para que identifiques los niveles de organización de la naturaleza y puedas
+  contextualizar esta última en la geografía chiapaneca realiza las siguientes
+  investigaciones en Internet:</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l6 level1 lfo7;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Descripción de los niveles de organización de
+  la naturaleza. De la información que obtengas elabora un mapa mental. Utiliza
+  imágenes relacionadas con el estado de Chiapas.</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l6 level1 lfo7;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Investiga cuáles son los distintos ecosistemas
+  del estado de Chiapas.</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l6 level1 lfo7;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Investiga qué es la exósfera.</p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='mso-spacerun:yes'> </span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'>Al finalizar<span style='mso-spacerun:yes'>  </span>tu investigación
+  envía tu archivo al asesor en línea, dicho archivo debe contener el mapa
+  mental de la primera investigación, y <span
+  style='mso-spacerun:yes'> </span>la información de los ecosistemas del estado
+  de Chiapas y la exósfera; tus dos últimas investigaciones deben tener una
+  extensión mínima de tres cuartillas.</p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:
+  150%;color:red'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify;line-height:150%;mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"ArialMT","sans-serif";
+  mso-bidi-font-family:ArialMT;color:red;mso-fareast-language:ES-MX'>Elabora tu
+  actividad en un archivo de Word. Este archivo debe<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify;line-height:150%;mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"ArialMT","sans-serif";
+  mso-bidi-font-family:ArialMT;color:red;mso-fareast-language:ES-MX'>guardarse
+  con un nombre alusivo al tema. Para enviarlo, pulsa “Examinar”. Ubica y
+  selecciona tu archivo en la computadora. Pulsa “Abrir” y verifica que el
+  nombre del archivo aparezca en el recuadro. Finalmente, pulsa “Subir este
+  archivo”.<o:p></o:p></span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:
+  150%'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-top-alt:solid black .25pt;
+  mso-border-top-alt:solid black .25pt;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-top-alt:solid black .25pt;
+  mso-border-top-alt:solid black .25pt;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='line-height:150%;layout-grid-mode:char'><b><span
+  style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:150%'>Tarea:
+  subir archivo<o:p></o:p></span></b></p>
+  </td>
+  <td width=132 valign=top style='width:99.2pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .25pt;mso-border-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:11.15pt'>
+  <p class=TableContents align=center style='text-align:center;line-height:
+  150%;layout-grid-mode:char'><b><span style='font-size:10.0pt;mso-bidi-font-size:
+  11.0pt;line-height:150%;color:red'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:38.25pt'>
+  <td width=109 valign=top style='width:82.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:38.25pt'>
+  <p class=TableContents style='layout-grid-mode:char'><b><span
+  style='font-size:10.0pt'>Actividad de aprendizaje 2<o:p></o:p></span></b></p>
+  </td>
+  <td width=461 valign=top style='width:346.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span lang=ES style='background:silver;mso-highlight:silver;mso-ansi-language:
+  ES'>Agregar un dibujo, una pequeña planta entre las manos, que se vean las
+  raíces y un podo de tierra entre ellas, como fondo de la imagen el planeta
+  tierra.</span><span lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span lang=ES style='mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span lang=ES style='mso-ansi-language:ES'>La ecología es una rama de
+  la biología que se encarga del estudio de los seres vivos, el medio en el que
+  habitan y las relaciones que establecen entre ellos.<o:p></o:p></span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span lang=ES style='mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'>Para identificar los conceptos de <i style='mso-bidi-font-style:normal'>ecología,
+  medio ambiente, cadena alimentaria</i> y <i style='mso-bidi-font-style:normal'>recursos
+  naturales</i>, lee el<span style='color:red'> texto</span> <b><span
+  style='background:aqua;mso-highlight:aqua'>¿Qué significa ecología?</span>,</b>
+  de Mary Arboleda, Armando <span class=SpellE>Junca</span> y Guido <span
+  class=SpellE>Moncayo</span>.</p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'><o:p>&nbsp;</o:p></span></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'>ecología_u1t1</span><o:p></o:p></b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span lang=ES style='background:silver;mso-highlight:silver;mso-ansi-language:
+  ES'>Agregar un dibujo, una pequeña planta entre las manos, que se vean las
+  raíces y un poco de tierra entre ellas, como fondo de la imagen el planeta
+  tierra.</span><span lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span lang=ES style='mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=132 valign=top style='width:99.2pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:38.25pt'>
+  <td width=109 valign=top style='width:82.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:38.25pt'>
+  <p class=TableContents style='layout-grid-mode:char'><b><span
+  style='font-size:10.0pt'>Actividad de aprendizaje 3<o:p></o:p></span></b></p>
+  </td>
+  <td width=461 valign=top style='width:346.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'>Lee el <span style='color:red'>texto </span><b><span style='background:
+  aqua;mso-highlight:aqua'>Ecología como ciencia</span></b>, de Smith R., en el
+  que se definen los conceptos de <i style='mso-bidi-font-style:normal'>ecología,
+  población</i>, y <i style='mso-bidi-font-style:normal'>comunidad</i>; y
+  además, muestra la relación de la ecología con otras ciencias. Con esta
+  lectura, conoce el devenir histórico de esta importante ciencia y su relación
+  con otras disciplinas.</p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:aqua;mso-highlight:aqua'>ciencia_u1t2</span></b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=132 valign=top style='width:99.2pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:38.25pt'>
+  <td width=109 valign=top style='width:82.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:38.25pt'>
+  <p class=TableContents style='layout-grid-mode:char'><b><span
+  style='font-size:10.0pt'>Actividad de aprendizaje 4<o:p></o:p></span></b></p>
+  </td>
+  <td width=461 valign=top style='width:346.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'>En esta actividad <span style='color:red'>redacta</span> un cuento de
+  tu autoría en el que expongas un mensaje relacionado con alguno de los
+  siguientes conceptos: <i style='mso-bidi-font-style:normal'>ecosistema, cadena
+  alimentaria, medio ambiente, recursos naturales</i> y <i style='mso-bidi-font-style:
+  normal'>ecología</i>. Cuando finalices tu cuento ponle un nombre de acuerdo
+  al tema que trataste, después escríbelo en el texto en línea titulado <b>Cuidemos
+  el medio ambiente</b> para que tus compañeros puedan leerlo, de igual manera
+  lee 2 ó 3 cuentos para que conozcas el mensaje que tus compañeros intentan
+  transmitir.</p>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify;line-height:150%;mso-layout-grid-align:none;text-autospace:none'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"ArialMT","sans-serif";
+  mso-bidi-font-family:ArialMT;color:red;mso-fareast-language:ES-MX'>Pulsa
+  “Editar mi envío”. Escribe tu respuesta en el recuadro en blanco que
+  aparecerá. Cuando termines pulsa “Guardar cambios”. En caso de que quieras
+  salir del editor sin guardar los últimos cambios realizados, pulsa
+  “Cancelar”.<o:p></o:p></span></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><o:p>&nbsp;</o:p></b></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b>Texto en línea: Cuidemos el medio ambiente</b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=132 valign=top style='width:99.2pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:38.25pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes;height:28.85pt'>
+  <td width=109 valign=top style='width:82.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:28.85pt'>
+  <p class=TableContents style='layout-grid-mode:char'><b><span
+  style='font-size:10.0pt'>Autoevaluación<o:p></o:p></span></b></p>
+  </td>
+  <td width=461 valign=top style='width:346.0pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:28.85pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Para
+  finalizar este interesante tema realiza el siguiente ejercicio en el que debes
+  demostrar que comprendiste los conceptos que se trataron; si observas que
+  tienes dificultades para responder realiza un repaso de los contenidos.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>Relaciona las columnas arrastrando el
+  objeto a su posición correcta; una vez seguro, libera el objeto.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>1. Es el conjunto de conocimientos
+  referentes a la<span style='mso-spacerun:yes'>  </span>economía de la
+  naturaleza.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>2. Grupo de individuos que pertenecen
+  a la misma especie.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>3. Es el conjunto de todas las
+  poblaciones de un<span style='mso-spacerun:yes'>  </span>ecosistema.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>4. Es un conjunto de individuos
+  semejantes que<span style='mso-spacerun:yes'>  </span>transmiten este
+  parecido de generación en generación.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>5. Acuñó el término ecología.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%'><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  background:yellow;mso-highlight:yellow'>6.<b style='mso-bidi-font-weight:
+  normal'> </b>Enunció la teoría del a evolución por selección natural.</span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'><o:p></o:p></span></b></p>
+  </td>
+  <td width=95 valign=top style='width:70.9pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:28.85pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><b><span style='background:yellow;mso-highlight:yellow'>RE/02</span><o:p></o:p></b></p>
+  </td>
+  <td width=85 valign=top style='width:63.8pt;border-top:none;border-left:solid black 1.0pt;
+  border-bottom:solid black 1.0pt;border-right:none;mso-border-left-alt:solid black .25pt;
+  mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:28.85pt'>
+  <p class=TableContents style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=132 valign=top style='width:99.2pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:28.85pt'>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo8;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Ecología</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo8;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Población</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo8;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Comunidad</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo8;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>Especie</p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo8;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE>Ernst</span> <span
+  class=SpellE>Haeckel</span></p>
+  <p class=TableContents style='margin-left:36.0pt;text-align:justify;
+  text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo8;layout-grid-mode:
+  char'><![if !supportLists]><span style='mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]>C. Darwin</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

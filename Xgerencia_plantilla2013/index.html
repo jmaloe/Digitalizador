@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<!--  
+          CODIGO GENERADO POR FREDY ALEXANDER ORELLANA FLORES 
+          alex_ore@msn.com
+          http://www.facebook.com/falex.orellana
+-->
+<html><head>    
+        <meta charset="utf-8" />           
+        <link rel="stylesheet" href="public/css/ui.css" type="text/css"/>         
+        <link rel="stylesheet" href="public/css/style.css" type="text/css"/>  
+        <link rel="stylesheet" href="public/css/app.css" type="text/css"/>             
+        <link rel="stylesheet" href="public/css/txt-style.css" type="text/css"/>             
+        <link rel="stylesheet" href="public/css/ldh.css" type="text/css"/>         
+<!--        <script src="http://cdn.jquerytools.org/1.2.6/full/jquery.tools.min.js"></script>-->
+  <!--      <script src="http://cdn.jquerytools.org/1.2.6/all/jquery.tools.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="http://releases.flowplayer.org/js/flowplayer-3.2.8.min.js"></script> -->
+        <script src="public/js/jquery.min.js"></script>
+        <script src="public/js/jquery.tools.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="public/js/flowplayer-3.2.8.min.js"></script> 
+        <script type="text/javascript" src="public/js/jquery.easing.min.js"></script>
+        <script type="text/javascript" src="public/js/jquery.lavalamp.min.js"></script>      
+        <script type="text/javascript" src="public/js/jquery.nicescroll.min.js"></script><!--Pendiente por usar -->
+        <script src="public/js/app.js"></script>
+        <script src="public/js/verificar-navegador.js"></script>                                            
+        <title>Universidad Autónoma de Chiapas</title> 
+    </head>
+    <body id="page" class="chrome" >
+<!-- overlayed element -->
+<div class="apple_overlay" id="overlay">
+  <div class="contentWrap"></div>
+</div>
+
+<!-- make all links with the 'rel' attribute open overlays -->    
+<!--   <div id="usuario"> <a href="herramientas/usuario.php" rel="#overlay" >Hola!</a> </div>     -->
+    <div class="apple_overlay" id="overlay">
+  <!-- the external content is loaded inside this tag -->
+  <div class="contentWrap"></div>
+</div>
+<ul id="tooltip"></ul>
+<div id = "contenedor">
+  <div id="header"  class="full box">
+    <!--EL BANNER VA EN FORMA ORDENADA... DE LA MISMA FORMA QUE ORDENES -->
+    <!--EL MENU DE LAS UNIDADES DE COMPETENCIA EN EL ATRIBUTO REL PONDRAS 1,2,3,4 ECT....-->
+    <div id="banner"> 
+    <img id="banner1"> 
+    <img id="banner2">
+    <img id="banner3"> 
+    <img id="banner4"> 
+    </div>
+    <!-- FIN DEL DIV DEL ID BANNER-->
+    <div id ="signUp">
+      <div id = "conten1"  class="contentnav3">
+        <!--LA PRIMERA BARRA DE IZQUIERDA A DERECHA-->
+        <img src="public/images/barra/inicio2.png"  id="primerdiagonal" />
+        <ul id="barra1" class="relleno">
+        </ul>
+       </div>
+      <img src="public/images/barra/diagonal1.jpg" class="diagonal1"/>
+      <!--PRIMER MENÚ -->
+      <div class="contentnav1">
+        <ul id="nav">
+          <li ><a href="presentacion.html"><span class="md-titulo fll">B</span><span class="md-texto fll">IENVENIDA</span></a></li>
+          <li class="diagonales1"></li>
+          <li><a href="diagrama.html"><span class="md-titulo fll">D</span><span class="md-texto fll">IAGRAMA</span></a></li>
+          <li class="diagonales1"></li>
+          <li><a href="forma.html"><span class="md-titulo fll">F</span><span class="md-texto fll">ORMA DE TRABAJO</span></a></li>
+          <li class="diagonales1"></li>
+          <li><a href="referencias.html"><span class="md-titulo fll">R</span><span class="md-texto fll">EFERENCIA</span></a></li>
+          <li class="diagonales1"></li>
+          <li><a href="criterio.html"><span class="md-titulo fll">C</span><span class="md-texto fll">RITERIO</span></a></li>
+          <li class="diagonales1"></li>
+          <li><a href="calendario.html"><span class="md-titulo fll">C</span><span class="md-texto fll">ALENDARIO</span></a></li>
+          <li class="diagonales1"></li>
+          
+        </ul>
+      </div>
+      <img src="public/images/barra/barras-06.png" id="tercerdiagonal" height="30"/> <a href="http://www.cv.unach.mx/plataformamoodle/login/logout.php" title="Cerrar sesión" class="cerrarsecion" > <img src="public/images/botons/cerrar1.png"  border="0"/></a> <img src="public/images/barra/inicio1.png" id="segundadiagonal"/>
+      <div id ="subcompetencia" class="contentnav4">
+        <p id ="uc" class="textos"><span class="md-titulo fll">U</span><span class="md-texto fll">NIDADES</span></p>
+      </div>
+      <!-- <img src="public/images/barra/diagonal2.jpg" class="diagonal1"/> -->
+      <div class="diagonal1"> </div>
+      <!-- *********GENERACIÓN DEL MENÚ 2 ***** --->
+      <script>				  
+                    //LEER BIEN COMO GENERAR EL MENU													
+                    /*declara los examen finales por unidad*/
+					 /*este bloque fue modificado por: Jaime Toledo Peña*/
+					 var unidadexamen=new Array()
+						 //una opcion por cada unidad
+						 unidadexamen[1]="0,0"; //opcion por unidad el primer 0 significa si no hay examen parcial si lo hay cambialo a uno y el segundo cero si hay examen final
+						 unidadexamen[2]="0,0";
+						 unidadexamen[3]="0,0";
+						 unidadexamen[4]="0,0";
+
+					 /*fin del bloque de examen parcial o final*/
+					 
+					 var unidad = new Array(3); //ARREGLO DE las x UNIDADES
+                        var U1 = new Array(2); //ARREGLO DE LA UNIDAD CON x temas
+                        U1[0] = 2; //NUMERO DE ACTIVIDADES DEL tema 1
+						U1[1] = 2;						
+						
+						var U2 = new Array(2); //ARREGLO DE las x UNIDADES
+                        U2[0] = 2; //NUMERO DE ACTIVIDADES DEL tema 2
+						U2[1] = 3;
+						
+						var U3 = new Array(4); //ARREGLO DE las x UNIDADES
+                        U3[0] = 2; //NUMERO DE ACTIVIDADES DEL tema 2
+						U3[1] = 3;
+						U3[2] = 2;
+						U3[3] = 1;
+
+                        unidad[0] = U1;
+						unidad[1] = U2;
+						unidad[2] = U3;
+                    </script>
+      <!-- IMPORTATE!!!! -->
+      <!--LA FUNCION CARGAR UNIDAD : PRIMER PARAMETRO IRA SECUENCIAL 1,2,3,4 -->
+      <!--ECT... EL SEGUNDO PARAMETRO DEFINE LAS SUBCOMPETENCIAS EL TERCER PARAMETRO -->
+      <!--SON LAS ACTIVIDADES EL REL REPRESENTA CADA IMAGEN DE LAS UNIDADES DE COMPETENCIA-->
+      <div id ="contentnav2" class = "contentnav2">
+        <ul id="2"  class="lavaLampWithImage">
+          <li><a href="u1/presentacion.html"  rel="1" title="I. La gerencia social: conceptualización y especificidad"><span class="md-titulo fll">U</span><span class="md-texto fll">nidad 1</span></a></li>
+          <li class="diagonales"></li>
+          <li><a href="u2/presentacion.html"  rel="2" title="II. Gerencia social y política social"><span class="md-titulo fll">U</span><span class="md-texto fll">nidad 2</span></a></li>
+          <li class="diagonales"></li>
+          <li><a href="u3/presentacion.html"  rel="3" title="III. Modelos gerenciales: gerencia social eficiente, adaptativa, estratégica y participativa"><span class="md-titulo fll">U</span><span class="md-texto fll">nidad 3</span></a></li>
+          <li class="diagonales"></li>
+        </ul>
+      </div>
+      <!-- FIN DEL DIV ID CONTENTNAV2 -->
+      <div id = "finaldiagonal2" class="finaldiagonal2"></div>
+      <!-- LAS FLECHAS QUE MOVERAN AL MENÚ ADELANTE Y ATRAS-->
+      <div id="mover-menu"> 
+      <a href="#" id="adelante" onClick="return false;"> <img src="public/images/botons/fwd1.png"></a> 
+      <a href="#" id="atras" onClick="return false;"> <img src="public/images/botons/rew1.png"></a> </div>
+    </div>
+    <div id="spacer"></div>
+    <p id="ruta"> Bienvenida </p>
+
+    <!--EL DIV CON LA CLASE OCULTAR REPRESENTA AL EL BOTON QUE OCULTA EL MENÙ DE LA BARRA SUPERIOR -->
+    <div id ="ocultar"> </div>
+    
+  </div>
+  <!--FIN DEL DIV HEADE Y FULL BOX-->
+  <!-- ESPACIO QUE SE GENERA DESPUES QUE QUE EL MENU QUEDA FIXED EN LA PARTE SUPERIOR PARA EVITAR EL PARPADEO DE PAGINA-->
+  <div class="slim container">
+    <!-- BOTON DE CARGANDO-->
+    <div id="cargado" style="width:73px; float:left; height:73px;" > </div>
+    <!--BARRA DE MENU LATERAL-->
+    <div id ="menu-lateral" >
+      <ul>
+        <li ><a href="herramientas/soporte.html" rel="#overlay" title="Soporte técnico"><img src="public/images/lateral/mensajes.png" ></a></li>
+        <li ><a href="herramientas/usr-online.html" rel="#overlay" title="Usuarios en linea"><img src="public/images/lateral/usr-online.png" ></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Chat de uso general"><img src="public/images/lateral/chat.png" ></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Foro de uso general" ><img src="public/images/lateral/foro.png" ></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Tareas"><img src="public/images/lateral/tareas.png" ></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Avisos"><img src="public/images/lateral/avisos.png"></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Calificaciones"><img src="public/images/lateral/calificaciones.png"></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Asesor"><img src="public/images/lateral/asesor.png"></a></li>
+        <li  class="removeMenuLateral"><a href="#" rel="#overlay" title="Contactos"><img src="public/images/lateral/contactos.png"></a></li>
+      </ul>
+    </div>
+    <div id = "content2">
+      <div id="content">
+        <!--AQUI CARGA TODA LA INFORMACIÓN DESDE EL AJAX -->
+      </div>
+    </div>
+    <div id="foot">
+      <div id="foot1"></div>
+      <div id="foot2">
+        <!--    <h6>Derechos reservados 2012. Universidad Autónoma de Chiapas</h6>-->
+        Derechos reservados 2012. Universidad Autónoma de Chiapas </div>
+      <div id="foot3"></div>
+    </div>
+  </div>
+</div>
+<!-- END DEL PRIMER DIV SIGUIENTE DEL BODY DIV CONTENEDOR -->
+
+        <!-- MENU DE LAS ACTIVIDADES DE LA SUBCOMPETENCIA NO MODIFICAR-->
+
+  <div id="ocultarPie"><!-- BOTON QUE OCULTA LA BARRA DE ACTIVIDADES DEL PIE-->
+            <div id ="ocultaPie"> </div>                     
+        </div>
+
+        <div id="menuPie">
+         
+            <ul>
+                <li class="menuinferior3 remove" >          
+                </li>     
+                
+                <li class="menuinferior remove">
+                    <a href="#" title="Actividad Preliminar"  rel="1">P</a>
+                </li>
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="" rel="2">1</a>
+                </li>         
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title=""  rel="3">2</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" rel="4">3</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="" rel="5">4</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="" rel="6">5</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="" rel="7">6</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="Examen parcial" rel="8">7</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="Examen parcial" rel="9">P</a>
+                </li> 
+                
+                <li class="menuinferior remove" >
+                    <a href="#" title="Examen final" rel="10">F</a>
+                </li> 
+				<li class="menuinferior remove" >
+                    <a href="#" title="" rel="11" title="Autoevaluación">A</a>
+                </li> 
+              	<li class="menuinferior2 remove" >                 
+                </li> 
+            </ul> 
+        </div>
+        <!-- FIN DE LAS ACTIVIDADES DE LA SUBCOMPETENCIA-->   
+    </body>
+</html>

@@ -1,0 +1,1508 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="componente_u1_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="componente_u1_archivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title> </title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PersonName"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Demonio</o:Author>
+  <o:LastAuthor>nordaz</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>368</o:TotalTime>
+  <o:LastPrinted>2008-10-27T15:46:00Z</o:LastPrinted>
+  <o:Created>2012-10-25T14:09:00Z</o:Created>
+  <o:LastSaved>2012-10-25T14:09:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>817</o:Words>
+  <o:Characters>4496</o:Characters>
+  <o:Lines>37</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5303</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="componente_u1_archivos/themedata.thmx">
+<link rel=colorSchemeMapping
+href="componente_u1_archivos/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>5.5 pto</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-MX</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="0" Name="annotation text"/>
+  <w:LsdException Locked="false" Priority="0" Name="header"/>
+  <w:LsdException Locked="false" Priority="0" Name="footer"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="0" Name="annotation reference"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="0" Name="Hyperlink"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="0" Name="Normal (Web)"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:EN-US;}
+h3
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:0cm;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	mso-list:l0 level3 lfo1;
+	mso-hyphenate:none;
+	tab-stops:list 0cm;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES;
+	mso-fareast-language:AR-SA;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Texto comentario Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Encabezado Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 212.6pt right 425.2pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:EN-US;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Pie de página Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 212.6pt right 425.2pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:EN-US;}
+span.MsoCommentReference
+	{mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:ES;
+	mso-fareast-language:ES;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"Texto comentario";
+	mso-style-link:"Asunto del comentario Car";
+	mso-style-next:"Texto comentario";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-ansi-language:ES-MX;
+	mso-fareast-language:EN-US;}
+span.EncabezadoCar
+	{mso-style-name:"Encabezado Car";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Encabezado;
+	mso-ansi-language:ES-MX;}
+span.PiedepginaCar
+	{mso-style-name:"Pie de página Car";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Pie de página";
+	mso-ansi-language:ES-MX;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto de globo";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;
+	mso-ansi-language:ES-MX;}
+span.TextocomentarioCar
+	{mso-style-name:"Texto comentario Car";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto comentario";
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-fareast-language:AR-SA;
+	mso-bidi-font-weight:bold;}
+span.eacep1
+	{mso-style-name:eacep1;
+	mso-style-unhide:no;
+	color:black;}
+span.AsuntodelcomentarioCar
+	{mso-style-name:"Asunto del comentario Car";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Texto comentario Car";
+	mso-style-link:"Asunto del comentario";
+	font-family:"Arial","sans-serif";
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("componente_u1_archivos/header.htm") fs;
+	mso-footnote-continuation-separator:url("componente_u1_archivos/header.htm") fcs;
+	mso-endnote-separator:url("componente_u1_archivos/header.htm") es;
+	mso-endnote-continuation-separator:url("componente_u1_archivos/header.htm") ecs;}
+@page WordSection1
+	{size:841.9pt 595.3pt;
+	mso-page-orientation:landscape;
+	margin:3.0cm 106.3pt 3.0cm 70.9pt;
+	mso-header-margin:35.45pt;
+	mso-footer-margin:35.45pt;
+	mso-header:url("componente_u1_archivos/header.htm") h1;
+	mso-footer:url("componente_u1_archivos/header.htm") f1;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1;
+	mso-list-template-ids:1;}
+@list l0:level1
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level2
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level3
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level4
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level5
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level6
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level7
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level8
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level9
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l1
+	{mso-list-id:575212326;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1193273918 134873089 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:36.25pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:650988875;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1632456002 201981967 201981977 201981979 201981967 201981977 201981979 201981967 201981977 201981979;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3
+	{mso-list-id:784613378;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-664523898 1464920278 134873113 134873115 134873103 134873113 134873115 134873103 134873113 134873115;}
+@list l3:level1
+	{mso-level-number-format:roman-upper;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:36.25pt;
+	text-indent:-36.0pt;}
+@list l4
+	{mso-list-id:807630380;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1025382672 556677348 201981953 201981957 201981953 1975175026 -58393068 201981953 201981955 201981957;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\25AA;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l4:level6
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\2212;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";
+	color:windowtext;}
+@list l5
+	{mso-list-id:989870949;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-80209996 201981967 201981977 201981979 201981967 201981977 201981979 201981967 201981977 201981979;}
+@list l5:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6
+	{mso-list-id:1074011364;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1989919780 226659204 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l6:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\2212;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l7
+	{mso-list-id:1112672813;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1574951922 226659204 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l7:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\2212;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l8
+	{mso-list-id:1399013892;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1179488728 -54076662 201981955 201981957 201981953 201981955 201981957 201981953 201981955 201981957;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F02D;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l9
+	{mso-list-id:1539850862;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1632456002 201981967 201981977 201981979 201981967 201981977 201981979 201981967 201981977 201981979;}
+@list l9:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l10
+	{mso-list-id:1646009299;
+	mso-list-type:hybrid;
+	mso-list-template-ids:980054660 134873089 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:36.25pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l11
+	{mso-list-id:1720588225;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-265143488 134873103 134873113 134873115 134873103 134873113 134873115 134873103 134873113 134873115;}
+@list l11:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l12
+	{mso-list-id:1812868189;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1673298472 134873089 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l12:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:55.55pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l13
+	{mso-list-id:1909076866;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-145964834 226659204 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l13:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\2212;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:36.25pt;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l14
+	{mso-list-id:1988894946;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2118947694 226659204 134873091 134873093 134873089 134873091 134873093 134873089 134873091 134873093;}
+@list l14:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\2212;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:36.25pt;
+	text-indent:-18.0pt;
+	font-family:"Arial","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l15
+	{mso-list-id:2053192896;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1808971922 -467893468 67764249 67764251 67764239 67764249 67764251 67764239 67764249 67764251;}
+@list l15:level1
+	{mso-level-tab-stop:18.25pt;
+	mso-level-number-position:left;
+	margin-left:18.25pt;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+table.MsoTableGrid
+	{mso-style-name:"Tabla con cuadrícula";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:59;
+	mso-style-unhide:no;
+	border:solid black 1.0pt;
+	mso-border-alt:solid black .5pt;
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-border-insideh:.5pt solid black;
+	mso-border-insidev:.5pt solid black;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="9218" fillcolor="white">
+  <v:fill color="white"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="2"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ES-MX link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse;mso-padding-alt:2.75pt 2.75pt 2.75pt 2.75pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:42.9pt'>
+  <td width="43%" colspan=2 valign=top style='width:43.56%;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:42.9pt'>
+  <p class=MsoNormal align=center style='margin-left:.25pt;text-align:center;
+  layout-grid-mode:char'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;line-height:115%;font-family:"Arial","sans-serif"'>NIVEL
+  UNIDAD<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>UNIDAD: I<o:p></o:p></span></b></p>
+  </td>
+  <td width="56%" valign=top style='width:56.44%;border:solid black 1.0pt;
+  mso-border-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:42.9pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:58.85pt;margin-bottom:
+  10.0pt;margin-left:.25pt;layout-grid-mode:char'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:12.0pt;line-height:115%;font-family:"Arial","sans-serif"'>AP
+  : Fernando García Ruiz<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:58.85pt;margin-bottom:
+  10.0pt;margin-left:.25pt;layout-grid-mode:char'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:12.0pt;line-height:115%;font-family:"Arial","sans-serif"'>FECHA:<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-right:58.85pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif";color:blue'>Responsable del ajuste:</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif";color:red'> Miguel Hernández Meneses<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-right:58.85pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif";color:blue'>Fecha:</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif";color:red'> 20 de septiembre de 2012</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>COMPONENTE <o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:58.85pt;margin-bottom:
+  10.0pt;margin-left:.25pt;layout-grid-mode:char'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:12.0pt;line-height:115%;font-family:"Arial","sans-serif"'>DESARROLLO<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Nombre de la UA<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:58.85pt;margin-bottom:
+  10.0pt;margin-left:36.25pt;text-align:justify;text-indent:-36.0pt;line-height:
+  150%;mso-list:l3 level1 lfo16;layout-grid-mode:char'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>I.<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Sociedad actual y naturaleza<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Unidad I <o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-right:58.85pt;text-align:justify;line-height:
+  150%;layout-grid-mode:char'><span style='font-size:12.0pt;line-height:150%;
+  font-family:"Arial","sans-serif"'>Impacto de las actividades humanas sobre el
+  medioambiente<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Carga horaria / Tiempo estimado de
+  estudio<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-right:58.85pt;text-align:justify;line-height:
+  150%'><span style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>15
+  horas<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:52.35pt'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:52.35pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Introducción<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:52.35pt'>
+  <p style='text-align:justify;line-height:150%'><span lang=ES
+  style='font-family:"Arial","sans-serif"'>El hombre se sirve de la naturaleza
+  para diversos fines, pero su escaso conocimiento sobre la misma lo ha llevado
+  a abusar de ella. Las actividades productivas que el ser humano realiza
+  transforman su entorno. En los últimos 30 años el crecimiento económico y
+  demográfico ha sido muy acelerado y ha trastornado el medioambiente. <o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Para
+  su estudio, la unidad didáctica se ha dividido en tres temas; el primero
+  trata los conceptos relacionados con la ecología, con el propósito de que el
+  estudiante ubique este ámbito de estudio y se familiarice con la terminología
+  básica que se utilizará durante el desarrollo de la unidad didáctica; en el
+  segundo tema el estudiante podrá identificar los conceptos básicos utilizados
+  para referirse a la evaluación del impacto ambiental; y por último, el tercer
+  tema brinda al estudiante información sobre los problemas ambientales
+  originados por las actividades humanas.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Como
+  parte de la unidad didáctica se describen conceptos como <i style='mso-bidi-font-style:
+  normal'>ecología</i> y <i style='mso-bidi-font-style:normal'>medioambiente</i>
+  y se expone la importancia de conservar los recursos naturales para el
+  bienestar de la humanidad.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:20.7pt'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:20.7pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'><span
+  style='mso-spacerun:yes'> </span><span style='color:red'>.Ti</span> Propósito
+  particular <span class=SpellE><span style='color:red'>Ti.</span></span><o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:20.7pt'>
+  <p class=MsoNormal style='margin-left:.25pt;text-align:justify;line-height:
+  150%;tab-stops:center 10.0cm;layout-grid-mode:char'><span style='font-size:
+  12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Al finalizar la
+  unidad didáctica, el estudiante será capaz de:<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Identificar los conceptos básicos relacionados
+  con el medioambiente.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Explicar la importancia del impacto
+  ambiental.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l14 level1 lfo9;mso-hyphenate:none;
+  tab-stops:center 37.05pt;layout-grid-mode:char'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>&#8722;<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Mostrar
+  una actitud de respeto hacia el medioambiente.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Resultados de aprendizaje<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;text-align:justify;line-height:
+  150%;layout-grid-mode:char'><span style='font-size:12.0pt;line-height:150%;
+  font-family:"Arial","sans-serif"'>El estudiante es competente cuando:<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-18.0pt;
+  line-height:150%;mso-list:l6 level1 lfo14;mso-hyphenate:none;layout-grid-mode:
+  char'><![if !supportLists]><span style='font-size:12.0pt;line-height:150%;
+  font-family:"Arial","sans-serif";mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Identifica los conceptos de <i
+  style='mso-bidi-font-style:normal'>ecología</i> y <i style='mso-bidi-font-style:
+  normal'>medioambiente</i>.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-18.0pt;
+  line-height:150%;mso-list:l6 level1 lfo14;mso-hyphenate:none;layout-grid-mode:
+  char'><![if !supportLists]><span style='font-size:12.0pt;line-height:150%;
+  font-family:"Arial","sans-serif";mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Identifica los niveles de organización
+  de la naturaleza.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Define los conceptos básicos de
+  evaluación del impacto ambiental.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Describe los grandes problemas
+  ambientales originados por las actividades antropogénicas y cómo estos
+  problemas afectan su entorno.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif";mso-bidi-font-weight:bold'>Demuestra
+  responsabilidad profesional, civil, ética, social y ambiental ante la
+  sociedad.</span><span style='font-size:12.0pt;line-height:150%;font-family:
+  "Arial","sans-serif"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Temario<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <ol style='margin-top:0cm' start=1 type=1>
+   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:150%;mso-list:l11 level1 lfo12;
+       mso-hyphenate:none;layout-grid-mode:char'><span style='font-size:12.0pt;
+       line-height:150%;font-family:"Arial","sans-serif"'>Conceptos básicos de <i
+       style='mso-bidi-font-style:normal'>ecología y medioambiente.</i><o:p></o:p></span></li>
+  </ol>
+  <p class=MsoHeader style='margin-left:63.8pt;text-indent:-17.85pt;line-height:
+  150%;mso-list:l4 level6 lfo15;tab-stops:35.4pt'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>&#8722;<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  lang=ES style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-ansi-language:ES;mso-bidi-font-weight:bold'>Niveles de organización de la
+  naturaleza: m</span><span style='font-size:12.0pt;line-height:150%;
+  font-family:"Arial","sans-serif";mso-bidi-font-weight:bold'>arco conceptual
+  de Chiapas.</span><span style='font-size:12.0pt;line-height:150%;font-family:
+  "Arial","sans-serif"'><o:p></o:p></span></p>
+  <p class=MsoHeader style='margin-left:63.8pt;text-indent:-17.85pt;line-height:
+  150%;mso-list:l4 level6 lfo15;tab-stops:35.4pt'><![if !supportLists]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>&#8722;<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif";
+  mso-bidi-font-weight:bold'>Exósfera.</span><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+  <ol style='margin-top:0cm' start=2 type=1>
+   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:150%;mso-list:l11 level1 lfo12;
+       mso-hyphenate:none;layout-grid-mode:char'><span style='font-size:12.0pt;
+       line-height:150%;font-family:"Arial","sans-serif"'>Conceptos básicos de
+       evaluación del impacto ambiental.<o:p></o:p></span></li>
+   <li class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:150%;mso-list:l11 level1 lfo12;
+       mso-hyphenate:none;layout-grid-mode:char'><span style='font-size:12.0pt;
+       line-height:150%;font-family:"Arial","sans-serif"'>Actividades
+       antropogénicas: historia y consecuencias.<o:p></o:p></span></li>
+  </ol>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Glosario<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:
+  justify;line-height:normal;layout-grid-mode:char'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Ecosistema.<sup><o:p></o:p></sup></span></b></p>
+  <p class=MsoNormal style='margin-left:14.2pt;text-align:justify;line-height:
+  normal;layout-grid-mode:char'><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Conjunto
+  de factores bióticos y abióticos. También se define como el estudio
+  científico de las relaciones entre los organismos y su ambiente.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal;layout-grid-mode:char'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Factor biótico</span></b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'>.<b
+  style='mso-bidi-font-weight:normal'><sup> </sup></b><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;
+  layout-grid-mode:char'><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Componente
+  vivo del ecosistema que influye en la supervivencia del mismo.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal;layout-grid-mode:char'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Factor abiótico</span></b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'>.<b
+  style='mso-bidi-font-weight:normal'><sup> </sup></b><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;
+  layout-grid-mode:char'><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Componente
+  inerte del ecosistema. Ejemplo de factor abiótico puede ser el suelo, las
+  salinidad, etc.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal;layout-grid-mode:char'><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Antropogénico. <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal;
+  layout-grid-mode:char'><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Que
+  es de origen humano.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Especie.
+  </span></b><span style='font-size:12.0pt;font-family:"Arial","sans-serif";
+  mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>Totalidad de los miembros de una clase particular de planta, animal o
+  microbio; una clase por su apariencia similar y la capacidad de aparearse y
+  reproducir vástagos fértiles.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Población.</span></b><b
+  style='mso-bidi-font-weight:normal'><sup><span style='font-size:12.0pt;
+  font-family:"Arial","sans-serif"'> </span></sup></b><b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>Todos los miembros de una especie que ocupan determinada área. <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Comunidad
+  biótica. <o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>Todas las poblaciones de plantas, animales y microbios que ocupan una
+  misma área.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Ecosistema.</span></b><b
+  style='mso-bidi-font-weight:normal'><sup><span style='font-size:12.0pt;
+  font-family:"Arial","sans-serif"'> </span></sup></b><b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>La comunidad biótica con los factores abióticos; todas las relaciones
+  entre los miembros de la comunidad biótica es entre ésta y los factores
+  abióticos. <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal'><span class=SpellE><b><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Bioma</span></b></span><b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'>.</span></b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'> <o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>Agrupamiento de todos los ecosistemas de la misma clase; por ejemplo,
+  bosques tropicales, pastizales, etcétera.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:10.0pt;margin-right:0cm;margin-bottom:
+  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
+  normal'><b><span style='font-size:12.0pt;font-family:"Arial","sans-serif"'>Biosfera</span></b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>.</span><b style='mso-bidi-font-weight:normal'><sup><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif"'> </span></sup></b><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'><o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Arial","sans-serif";mso-bidi-font-weight:
+  bold'>Funcionamiento de todas las especies y los factores físicos de <st1:PersonName
+  ProductID="la Tierra" w:st="on">la Tierra</st1:PersonName> como un solo
+  ecosistema gigantesco.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:14.2pt;margin-bottom:.0001pt;text-align:justify;line-height:normal'><span
+  style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial","sans-serif"'>(Fuente:
+  Smith, Robert. (2000). Glosario del libro <i style='mso-bidi-font-style:normal'>Ecología</i>.
+  Estados Unidos de América: <span class=SpellE>Addison</span> <span
+  class=SpellE>Wesley</span>. Todas las definiciones fueron extraídas de la
+  misma fuente). </span><span style='font-size:12.0pt;font-family:"Arial","sans-serif";
+  mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Evaluación final y criterios de
+  desempeño<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>La
+  unidad será evaluada con la participación en un foro y un texto en línea.
+  Además, forman parte de la evaluación la elaboración de un mapa mental, una
+  síntesis, investigación en Internet y un texto critico-reflexivo.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify;line-height:150%;layout-grid-mode:
+  char'><span style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'>Los
+  criterios con los que deberá participar el estudiante deberán cubrir los
+  siguientes requisitos:<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-18.0pt;
+  line-height:150%;mso-list:l7 level1 lfo13;mso-hyphenate:none;layout-grid-mode:
+  char'><![if !supportLists]><span style='font-size:12.0pt;line-height:150%;
+  font-family:"Arial","sans-serif";mso-fareast-font-family:Arial'><span
+  style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Mostrar que comprende los conceptos relacionados
+  con el medioambiente.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif"'>Relacionar las actividades
+  antropogénicas con los problemas medioambientales.<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:36.25pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+  -18.0pt;line-height:150%;mso-list:l13 level1 lfo10;mso-hyphenate:none;
+  layout-grid-mode:char'><![if !supportLists]><span style='font-size:12.0pt;
+  line-height:150%;font-family:"Arial","sans-serif";mso-fareast-font-family:
+  Arial'><span style='mso-list:Ignore'>&#8722;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span style='font-size:12.0pt;line-height:
+  150%;font-family:"Arial","sans-serif";mso-bidi-font-weight:bold'>Mostrar una
+  actitud profesional, civil, ética, social y ambiental ante la sociedad.</span><span
+  style='font-size:12.0pt;line-height:150%;font-family:"Arial","sans-serif"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;mso-yfti-lastrow:yes'>
+  <td width="16%" valign=top style='width:16.84%;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:solid black .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-left:.25pt;layout-grid-mode:char'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;line-height:
+  115%;font-family:"Arial","sans-serif"'>Resumen de la unidad<o:p></o:p></span></b></p>
+  </td>
+  <td width="83%" colspan=2 valign=top style='width:83.16%;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .5pt;mso-border-bottom-alt:
+  solid black .5pt;mso-border-right-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p style='text-align:justify;line-height:150%'><span lang=ES
+  style='font-family:"Arial","sans-serif"'>La vida humana se ha desarrollado en
+  la naturaleza y esta última ha sido afectada, como resultado hay una
+  alteración de los fenómenos naturales. Es un error pensar que los avances
+  tecnológicos pasan desapercibidos o ajenos a la naturaleza. El conocimiento
+  de términos como <i style='mso-bidi-font-style:normal'>población, comunidad,
+  medio amiente, factores bióticos</i> y <i style='mso-bidi-font-style:normal'>abióticos</i>,
+  brindan al estudiante la oportunidad de familiarizarse con los conceptos
+  básicos medioambientales. <o:p></o:p></span></p>
+  <p style='text-align:justify;line-height:150%'><span lang=ES
+  style='font-family:"Arial","sans-serif"'>El impacto ambiental se define como
+  una acción de alteración, positiva o negativa, en el medio. De ahí la
+  importancia del estudio del impacto ambiental como una herramienta orientada
+  a la formación de un juicio objetivo sobre las consecuencias derivadas de la
+  ejecución de una determinada actividad. El impacto ambiental también se
+  define como la acción del hombre sobre la naturaleza y esta acción
+  antropogénica, generalmente negativa, ha desencadenado fenómenos como el
+  calentamiento global.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=132 style='border:none'></td>
+  <td width=197 style='border:none'></td>
+  <td width=419 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+<p class=MsoNormal style='tab-stops:154.5pt 780.0pt'><span style='font-size:
+12.0pt;line-height:115%;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

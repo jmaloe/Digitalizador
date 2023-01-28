@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner{
+    background:url(../images/LGS/bannerprincipal.jpg) no-repeat;/*RUTA A CAMBIAR*/
+}
+#contenedor {
+    background: url(../images/LGS/fondo.jpg) #FFF no-repeat;
+    width:980px;
+    margin: 20px auto;
+    padding-left:0px;
+    /*margin-bottom: -600px;*/
+    margin-top: -30px;
+    background-size:980px 900px;
+    background-attachment:fixed;
+    background-position:50% 10%;
+}
+
+.lavaLampWithImage {
+    background: url(../images/LGS/barra/menu2.jpg) repeat-x;  
+}
+
+.diagonal1{
+	background:url(../images/LGS/barra/diagonal2.jpg);
+	width:37px;
+	}
+	
+.finaldiagonal2
+{
+    background:  url(../images/LGS/barra/diagonalfinal-2.png)  no-repeat;
+	float:left;
+	margin-right:-6px;
+    width:32px;	
+}
+#banner1 {
+	  background:url(../images/LGS/banners/1.jpg) no-repeat;	 
+	}
+#banner2 {
+	  background:url(../images/LGS/banners/2.jpg) no-repeat;
+	}
+#banner3 {
+	  background:url(../images/LGS/banners/3.jpg) no-repeat;
+	}
+#banner4 {
+	  background:url(../images/LGS/banners/4.jpg) no-repeat;
+	}
+#banner5 {
+	  background:url(../images/LGS/banners/5.jpg) no-repeat;
+	}
+#banner6 {
+	  background:url(../images/LGS/banners/6.jpg) no-repeat;
+	}
+#banner7 {
+	  background:url(../images/LGS/banners/7.jpg) no-repeat;
+	}
+#banner8 {
+	  background:url(../images/LGS/banners/8.jpg) no-repeat;
+	}
+#banner9{
+	  background:url(../images/LGS/banners/9.jpg) no-repeat;
+	}
+
+
+#menuPie ul li.sombra2 {
+        	background:url(../images/LGS/botones/sombra.png) no-repeat;
+	}
+		
+	.botonsobre{
+		background:url(../images/LGS/botones/sombra.png) no-repeat;
+		z-index: 2;		
+	}
+

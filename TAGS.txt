@@ -1,0 +1,85 @@
+<meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'/>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+--VIDEO--
+  //colocar dentro del <head>
+<script>
+ (function (){video();})();
+</script>
+  //colocar despues del <div id='content'>
+<div class="overlay">
+ <a id="player1" class="player" href="u3/recursos/video.flv"></a>
+</div>
+  //colocar en la parte del texto donde se indica el video
+<img  id="1" rel="div.overlay" class="video" src="public/images/ico-video.png"  alt="[play al video]" width="21" hegith="21" />
+
+
+--FRAME--
+<p class="contenido0">
+<div style="margin-left:50px; border:#F00; width:650px;" id="freame" >
+ <iframe   style="border:6px;" scrolling='Yes' src='URLALRECURSO' title='' frameborder='0' width='650px'  height='500px' ></iframe>
+</div>
+</p>
+
+  <iframe class="activity" scrolling="auto" src=""></iframe>
+
+--FLASH--
+<div style="margin-left:50px; border:#F00; width:600px;" id="freame" >
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="600" height="750" title="autoevaluacion">
+    <param name="movie" value="uX/recursos/.swf" />
+    <param name="quality" value="high" />
+    <embed src="uX/recursos/.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="600" height="750"></embed>
+  </object>
+</div>
+--para la nueva plantilla poner este color al flash--
+<embed bgcolor="#EAEAEA"
+
+--LISTA--
+<ul class="contenido0" style="list-style:url(public/images/icono/guion.jpg)">
+ <li><p class="lista">
+
+
+--ICONO--
+<a href='u/recursos/.pdf' target='_blank'><img src='public/images/icono/libro.png' width='21' height='21' border='0' align='absmiddle'></a>
+ PPT
+<a href='uc/sub/recursos/' target='_blank'><img src='public/images/icono/ppt.png' width='21' height='21' border='0' align='absmiddle'></a>
+
+ <a class="icon" href="" target="_blank"><span class="icon libro"></span></a>
+
+
+--AUDIO--
+<object type="application/x-shockwave-flash" data="recursos/zplayer.swf?mp3=u1/recursos/ARCHIVO.mp3&c1=00d1ff&c2=0e76f1" width="200" height="20"/>
+ <param name="movie" value="recursos/zplayer.swf?mp3=u1/recursos/ARCHIVO.mp3&c1=00d1ff&c2=0e76f1" />
+</object>
+<a href="u1/recursos/ARCHIVO.pm3" download="ARCHIVO.mp3"><img src="public/images/descargar.png" width="21" height="21"/></a>
+
+--Boton next del hotpotatoes
+<img src="u1/recursos/check.png" width="" height="" align="absmiddle" />
+...
+<div style='margin-left:50px; border:#F00; width:97%;' id='frame'>
+     <iframe style='border:6px;' scrolling='Yes' src='u2/recursos/ArchivoHTM' title='' frameborder='0' width='97%'  height='700px' ></iframe>
+</div>
+
+--Icono de lectura desbordado, indicar los siguiente en la etiqueta img
+<img style="display:inline; margin-left:0" />
+
+---VIDEO HTML5
+
+<div style="position: relative; width: 640px;">
+<video id=0 controls width=100% height=360>
+<source src="../file.php/169/sub3/VIDEO.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+<source src="../file.php/169/sub3/VIDEO.mp4" type='video/mp4'>
+<source src="../file.php/169/sub3/VIDEO.webm" type='video/webm'>
+Tu navegador no soporta el elemento de video, intenta con <a href="https://www.mozilla.org/es-ES/" target="_blank">Firefox</a>
+</video>
+</div>
+
+<span class="ar-video" ar="u5/recursos/video" title="TITULO"></span>
+
+<img src="../file.php/164/iconos/video.png" width="21" hegith="21" align="absmiddle" />
+
+---AUDIO HTML5
+<audio controls>
+  <source src="../file.php/169/sub3/AUDIO.mp3" type="audio/mpeg">
+  <source src="../file.php/169/sub3/AUDIO.ogg" type="audio/ogg">
+Tu navegador no pudo reproducir el audio, intenta con <a href="https://www.mozilla.org/es-ES/" target="_blank">Firefox</a>
+</audio>

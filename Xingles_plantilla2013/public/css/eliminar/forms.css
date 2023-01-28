@@ -1,0 +1,50 @@
+/* 	Artfully masterminded by ZURB  */
+/*
+	form { margin: 0 0 18px; }
+	label { display: block; font-size: 13px; line-height: 18px; cursor: pointer; margin-bottom: 9px; }
+	div.wrap {display:block; clear:both;margin-bottom:5px;text-align:left;}
+	input[type=text], input[type=password], textarea { -moz-box-shadow: inset 1px 1px 2px #E7E7E7; -webkit-box-shadow: inset 1px 1px 2px  #E7E7E7; border-right: 1px solid #bbb; border-bottom: 1px solid #bbb; }
+	input[type=text], input[type=password], textarea, select { display: block; margin-bottom: 9px; }
+	label + input.input-text, label + textarea, label + select { margin-top: -9px; }
+	
+	
+	input[type=text], input[type=password], textarea { font-size: 13px; padding: 4px 3px 2px; outline: none !important; background: #fff; }
+	input[type=text].oversize, input[type=password].oversize, textarea.oversize { font-size: 22px !important; padding: 6px 5px !important; }
+	input[type=text]:focus, textarea:focus { background: #f9f9f9; }
+	
+	input.placeholder, textarea.placeholder { color: #888; }
+
+	
+	input[type=text], input[type=password], textarea { width: 254px; }
+	input.small, textarea.small { width: 134px; }
+	input.medium, textarea.medium { width: 254px; }
+	input.large, textarea.large { width: 434px; }
+	
+	
+	fieldset { padding: 9px 9px 2px 9px; border: solid 1px #ddd; margin: 18px 0; }
+	
+	
+	input[type=text].red { border-color: red; background-color: rgba(255,0,0,0.15); }
+	label.red { color: red; }
+	small.error { margin-top: -6px; display: block; margin-bottom: 9px; font-size: 11px; color: red; width: 260px; }
+	
+	.error { background-color: #fffed3; padding: 15px 15px 5px 15px; }
+	.error h3 { font-size:17px;margin-bottom:4px; }
+	.error p { font-size:14px;margin-bottom:8px; }
+
+	.small + .error { width: 140px; }
+	.medium + .error { width: 260px; }
+	.large + .error { width: 440px; }
+
+	form input[type=text], input[type=password], form textarea { border: solid 1px #c8c8c8; -webkit-border-radius: 2px; -moz-border-radius: 2px; }
+	form input[type=text], input[type=password], form textarea { font-size: 13px; padding: 7px; outline: none !important; background: #fff;  }
+	form input[type=text]:focus, form textarea:focus { background-color: #f9f9f9; }
+	
+	form fieldset { -webkit-border-radius: 5px; -moz-border-radius: 5px; }
+	
+	form small.error { padding: 6px 4px; border: solid 0px red; border-width: 0px 1px 1px 1px; margin-top: -10px; background: red; color: #fff; font-size: 12px; font-weight: bold; -webkit-border-bottom-left-radius: 3px; -webkit-border-bottom-right-radius: 3px; -moz-border-radius-bottomleft: 3px; -moz-border-radius-bottomright: 3px; }
+	
+	form .small + .error { width: 132px; }
+	form .medium + .error { width: 252px; }
+	form .large + .error { width: 432px; }	
+	*/

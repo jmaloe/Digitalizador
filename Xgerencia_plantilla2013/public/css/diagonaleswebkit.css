@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.diagonales,.diagonales1
+{    
+    height:30px;
+    width:36px;
+    display:block;
+    margin-left:-36px;	
+}
+.diagonales1
+{
+    background:url(../images/barra/inmedio1-.png) no-repeat;
+}
+.diagonales
+{
+    background:url(../images/barra/inmedio1-.png) no-repeat;	
+
+}

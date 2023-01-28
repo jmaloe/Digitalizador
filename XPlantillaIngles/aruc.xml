@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+	<list position="1">
+		<name>Moments in life. Part 1</name>
+		<shortname>Unidad 1</shortname>
+		<subs>2,2,2,1</subs>
+	</list>
+	<list position="2">
+		<name>Moments in life. Part 2</name>
+		<shortname>Unidad 2</shortname>
+		<subs>2,2,2,2</subs>
+	</list>
+	<list position="3">
+		<name>Our life</name>
+		<shortname>Unidad 3</shortname>
+		<subs>2,2,2,1</subs>
+	</list>
+	<list position="4">
+		<name>Cities and lifestyle</name>
+		<shortname>Unidad 4</shortname>
+		<subs>2,2,2,1</subs>
+	</list>
+	<list position="5">
+		<name>A future experience</name>
+		<shortname>Unidad 5</shortname>
+		<subs>2,2,2,1</subs>
+		<final>0,0,0,1</final>
+	</list>
+</lists>

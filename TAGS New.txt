@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8" /><title>Unach virtual</title></head>
+<body> 
+	<article class="ar-title">Knowing you</article>
+
+<article class="ar-header">Working time</article>
+    <article class="ar-movilhd">Working time</article>
+     <article class="ar-content">
+	   <p class="content">6 hours</p>
+     </article>
+
+    <article class="ar-header">Learning result(s)</article>
+    <article class="ar-movilhd">Learning result(s)</article>
+    <article class="ar-content">
+
+<article class="ar-header">Content</article>
+    <article class="ar-movilhd">Content</article>
+    <article class="ar-content">
+
+<article class="ar-header">Evidence(s)</article>
+    <article class="ar-movilhd">Evidence(s)</article>
+    <article class="ar-content">
+-----
+<!DOCTYPE html>
+<html><head><meta charset="utf-8" /><title>Unach virtual</title></head>
+<body> 
+<article class="ar-title">Learning activity 1</article>
+-----
+<!DOCTYPE html>
+<html><head><meta charset="utf-8" /><title>Unach virtual</title></head>
+<body> 
+	<article class="ar-title">Self-assessment</article>
+-----
+ <a class="icon" href="" target="_blank">
+   <span class="icon libro"></span>
+   <span class="icon foro"></span>
+   <span class="icon ppt"></span>
+   <span class="icon word"></span>
+   <span class="icon link"></span>
+   <span class="icon descargar"></span>
+   <span class="icon cuestionario"></span>
+</a>
+-----
+<span class="ar-video" ar="u1/recursos/video_u1t2a1" title="My title"></span>
+*video_s3a2.mp4
+*video_s3a2.ogv
+*video_s3a2.webm
+-----
+<!--presentacion uc1/index.html-->
+<!DOCTYPE html>
+<html><head><meta charset="utf-8" /><title>Unach virtual</title>
+</head>
+<body>
+<article class="ar-title">Moments in life. Part 2.</article>
+
+<article class="ar-header">Working time</article>
+<article class="ar-movilhd">Working time</article>
+<article class="ar-content">
+  <p class="content">24 hours</p>
+</article>
+
+<article class="ar-header">Introduction</article>
+<article class="ar-movilhd">Introduction</article>
+<article class="ar-content">
+
+<article class="ar-header">Didactic unit objective(s)</article>
+<article class="ar-movilhd">Didactic unit objective(s)</article>
+<article class="ar-content">
+
+<article class="ar-header">Learning result(s)</article>
+<article class="ar-movilhd">Learning result(s)</article>
+<article class="ar-content">
+
+<article class="ar-header">Thematic Units</article>
+<article class="ar-movilhd">Thematic Units</article>
+<article class="ar-content">
+
+<article class="ar-header">Glossary</article>
+<article class="ar-movilhd">Glossary</article>
+<article class="ar-content">
+
+<article class="ar-header">Final evaluation and performance criteria</article>
+<article class="ar-movilhd">Final evaluation and performance criteria</article>
+<article class="ar-content">
+
+<article class="ar-header">Summary of the didactic unit</article>
+<article class="ar-movilhd">Summary of the didactic unit</article>
+<article class="ar-content">
+-----

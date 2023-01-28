@@ -1,0 +1,278 @@
+div#header
+{ 
+    position: relative; 
+    margin-top: 40px;
+}
+#contenedor {
+	overflow:hidden;
+	}
+#header #signUp,#ocultar
+{
+    clear: both; 
+    top: -20px; 
+    padding: 0px; 
+    margin: 0px -20px 10px -20px; 
+    position: relative;
+    height:75px;
+}
+
+#header #signUp.fixed { 
+    position: fixed;
+    left: 50%; 
+    margin-left: -490px;
+    top: 0px; 
+    width: 980px; 
+}
+#ocultar{
+    width:30px;
+    height:20px;          	
+    visibility:hidden;	       
+}
+#header #ocultar.ocultarUp{ 
+    top: 62px; 
+	position: fixed;   
+    visibility:visible;
+	right: 50%;
+    margin-right: 380px;  
+	background: url(../images/barra/pieUp.png) no-repeat;
+}
+.ocultarUp:hover{
+	cursor:pointer;
+	}
+.ocultarDown:hover{
+	cursor:pointer;
+	}
+	
+#header #ocultar.ocultarDown{    
+    right: 50%;
+    margin-right: 380px;
+	position: fixed;   
+    visibility:visible;
+    top: 0px;
+	background: url(../images/barra/pieDown.png) no-repeat;
+}
+
+#menu-lateral{    
+/*    background:url(../images/lateral/barra-01.png) no-repeat;*/
+	border-left:#000;     
+	float:right;	   
+	height:500px;
+	padding:5px;
+	margin-left:-45px; 	
+	margin-right: 20px;
+	margin-top: -80px;	/* 45 */
+	width:14px;
+    z-index:2;
+}
+#menu-lateral.menu-lateral-static{    
+	margin-top: -135px;     	/* -10*/
+    margin-right: -485.5px;
+	position: fixed;	 
+    right: 50%;	
+	width: 50px; 
+}
+
+#menu-lateral ul:before{
+	content:"" url(../images/lateral/bar-03.png);
+	margin-left:-45px;
+	margin-bottom:-50px;
+	}
+#menu-lateral ul:after{
+	content:"" url(../images/lateral/bar-04.png);
+	margin-left:-45px;
+	}
+#menu-lateral ul li{
+    list-style: none;	 
+	background:#000000;
+	width:24px;
+	margin-left:-44px;
+	padding-top:1px;
+	margin-top:-5px;
+	padding-bottom:1px;
+    margin-bottom:0px;
+	width:23px;
+}
+#menu-lateral ul li img {
+    margin-left:2px;/*42*/
+    margin-bottom: 11px;
+    border: 0px;
+    display:block;
+	width:19px;
+	height:14px;	
+}
+#mover-menu {
+	height:30px;
+	width:100px;
+	float:right;
+	margin-top: -32px;
+	display:none;
+}
+#adelante,#atras{	
+	color:#EEE;
+	float:right;
+	font-size: 25px;
+	height:30px;	
+	text-align:center;			
+	text-decoration:none;
+}
+#mover-menu img {
+	height:30px;
+	border:0px;
+	margin-left:-16px;
+}
+#adelante{
+  margin-right:33px;
+}
+
+#atras{
+	float:left;
+	margin-left:-1px;
+	margin-top:-30px;			
+}
+
+#menuPie,#ocultarPie{
+    bottom: 15px;    
+    height:35px;
+    margin-right:-430px;    
+    position: fixed;
+    right: 50%;
+    width: 790px;      
+}
+
+
+#ocultarPie{
+	 -moz-border-radius: 0px; 
+    -moz-box-shadow: 0 0 20px rgba(0,0,0,0.0); 
+    -webkit-border-radius: 0px; 
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.0);
+	 left:50%;
+	 margin-left:-411px;	
+	 right: 50%;     
+	 height:20px;
+	 width: 35px;
+	 z-index: 1;
+	}
+   .ocultarDown{	
+	 float:left;
+	 height: 20px;	
+	 width: 33px;
+	 background:url(../images/barra/pieDown.png) no-repeat ;
+	 z-index:8;
+	}
+   .ocultarUp{	
+	 float:left;
+	 height: 20px;	
+	 width: 33px;
+	 background:url(../images/barra/pieUp.png) no-repeat;
+	 z-index:8;
+	}
+.ocultarPies:hover{
+     cursor:pointer;
+}
+#menuPie ul li {
+    float:left;
+	height: 36px;	
+	list-style: none;
+	margin-right: -220px;
+	margin-top: -15px;
+	margin-left: 170px;
+	width: 115px;	
+	color:#FFFFFF;	
+	padding-top: 2px; 	
+	}
+	
+	#menuPie ul li.sombra2 {
+			margin-top: -20px;	
+			padding-left:2px;
+			padding-top:8px;
+			z-index: 9000000;
+	}
+	
+#menuPie ul li.menuinferior {
+		background:url(../images/botones/boton-05.png) no-repeat;	
+		
+}
+#menuPie ul li.menuinferior2 {
+	    margin-left: 166px;
+		background:url(../images/barra/part-04.png)  no-repeat;		
+		
+}
+#menuPie ul li.menuinferior3 {
+	margin-right: -270px;
+	background:url(../images/barra/part-03.png)  no-repeat;				
+}
+	
+	#menuPie ul li a {	       		
+	display:block;
+	height: 36px;
+	margin-left: 28px;
+	margin-top:  -5px;
+	width: 30px;		
+	color:#FFFFFF;		
+	font:  1.8em "Trajan Pro","Lucida Sans Unicode" , "Lucida Grande", Arial, Helvetica, sans-serif;
+	font-style:inherit;	
+	text-decoration:none;
+	padding-left: 5px;
+    text-shadow: 2px 2px #333;
+	}			
+	#menuPie  ul li.remove {
+	      display:none;
+	}
+	
+	#menuPie ul li a:hover{		
+	      background:url(../images/botones/trans-01.png) no-repeat;
+		  margin-top: -8px;
+		 /* text-align:center;*/
+		 padding-left:35px;
+		 padding-top:2px;
+		  color:#FFFFFF
+		 /* padding-left:0px;
+		/  padding-top:8px;		*/
+		  display:block; 
+		  width:93px;
+		  height:42px;
+		  margin-left:-2px;
+	
+	}
+	
+
+body.ie7 #header #signUp { width: 960px; clear: none;  background:#FFF;}
+body.ie7 #header div.container { position: relative; background:#FFF;}
+body.oldie #header div.slim.container { margin-left: -20px; background:#FFF; margin-top:30px;}
+
+body.ie6 { background: #fff; }
+hr { border: solid #ddd; border-width: 3px 0 0; clear: both; margin: 12px 0 18px; height: 0;  margin-left: -50px; }
+ul li a img { border:0px; margin-left:55px; margin-top:3px; display:block;   }
+
+/* Container */
+div.container { position: relative; width: 1050px; margin: 0 auto; padding: 0; }
+body.ie8 div.container { position: static; }
+
+div.container.slim { 
+    position: relative; 
+    width: 940px;
+    padding: 0;
+	margin-top:-20px;
+	
+	
+
+}
+body.ie8 div.container.slim { position: static; }
+.spacer
+{
+  height: 66px;	
+}
+ #error {
+	    height:602px;	 
+		width:800px;
+		margin-left: -70px;
+		border-radius: 5px;			  
+		background:url(../images/web-en-construccion.jpg) no-repeat;
+		text-align:center;
+	  }
+  
+  #error>p{
+	 color:#D00;  
+	 
+  }
+  

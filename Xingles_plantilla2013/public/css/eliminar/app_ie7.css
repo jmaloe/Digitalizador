@@ -1,0 +1,278 @@
+div#header
+{ 
+    position: relative; 
+    z-index: 999;
+    margin-top: 40px;
+    /*    padding-top: 10px; *
+        height: 50px; */
+    /*    margin-bottom: 200px; */
+
+}
+#banner{
+    background:url(../images/banner-02.jpg);	
+    width:980px;
+    height:100px;
+    position:relative;
+    top : -20px;	
+    margin: 0px -100px 20px -20px;
+}
+
+
+
+
+#header #signUp,#ocultar
+{
+    clear: both; 
+    top: -20px; 
+    padding: 0px; 
+/*   margin: 0px -79px 10px -40px; */
+    margin: 0px -100px 10px -20px; 
+    position: relative;
+    /*background: transparent url(../images/bg/banner.png) top left no-repeat; */
+    /*    background-color: #348fbb;*7
+    /*    background-color: #FFF;*/
+    
+    height:100px;
+		
+}
+
+
+#ocultar{
+    width:10px;
+    height:12px;
+    padding:10px;
+    top : -40px;
+    /*	background:url(../images/menu2.jpg) repeat-x;*/
+    background: url(../images/up.png) no-repeat;
+    float:right;	
+    visibility:hidden;
+}
+
+#header #ocultar.ocultarS{
+   /* position: fixed;*/
+    
+    top: 67px;	 
+    visibility:visible;
+   
+    right: 50%;
+    margin-right: 380px;
+}
+
+#menu-lateral{    
+    background:url(../images/lateral/barra-03.png) no-repeat;
+	border-left:#000;     
+	float:right;	   
+	height:500px;
+	padding:5px;
+	margin-left:-45px; 	
+	margin-right: 20px;
+	margin-top: 45px;	
+	width:14px;
+    z-index:2;
+}
+#menu-lateral.menu-lateral-static{    
+/*	margin-top: -300px;     	*/
+	margin-top: -68px;     	
+   /* margin-right: -449.5px;*/
+    margin-right: -485.5px;
+   /* margin-right: -420px;	*/
+   /* margin-right: -4px;*/ 
+	position: fixed;	 
+    right: 50%;	
+	 width: 50px;
+/*    top: 50%;	*/	 	 	
+}
+
+#menu-lateral ul li {
+    list-style: none;	 
+}
+
+
+#menu-lateral ul li img {
+    margin-left:-42px;
+    margin-bottom: 20px;
+    border: 0px;
+    display:block;
+}
+#mover-menu {
+/*	background:#F00;*/
+	/*float:right;*/
+	height:30px;
+/*	margin-right: 100px;
+	right: -873px;
+	margin-right: 100px;
+	width:60px;
+	position:relative;  */	
+	widows:100px;
+	float:left;
+	/*z-index:2;*/
+	display:none;
+}
+#adelante,#atras{	
+	color:#EEE;
+	float:right;
+	font-size: 25px;
+	height:30px;	
+	/*margin-top: -35px;*/
+	text-align:center;			
+	text-decoration:none;
+/*	width:30px;*/
+}
+#mover-menu img {
+	height:30px;
+	border:0px;
+	#mover-menu {
+/*	background:#F00;*/
+	/*float:right;*/
+	height:30px;
+/*	margin-right: 100px;
+	right: -873px;
+	margin-right: 100px;
+	width:60px;
+	position:relative;  */	
+	widows:100px;
+	float:left;
+	/*z-index:2;*/
+	display:none;
+}
+#adelante,#atras{	
+	color:#EEE;
+	float:right;
+	font-size: 25px;
+	height:30px;	
+	/*margin-top: -35px;*/
+	text-align:center;			
+	text-decoration:none;
+	width:20px;
+/*	width:30px;*/
+}
+#mover-menu img {
+	height:30px;
+	border:0px;
+	margin-left:-20px;
+}
+
+#atras{
+	float:left;	
+}
+
+}
+
+#atras{
+	float:left;	
+}
+
+
+#menuPie{
+	
+    clear: both; 
+    height:40px;
+    left: -180px;
+    margin-left: 42%;
+    position: fixed;   
+    top: 96%;        
+    width: 700px;
+	visibility:hidden;
+    z-index: 999;
+}
+#menuPie.piefixed { 
+    margin-top: 505px;
+    margin-left: -350px;
+    left: 42%;    
+    top:50%; 
+    width: 0px; 
+    position: fixed;
+}
+
+#menuPie ul li {
+		
+/*	display:block;    */
+/*	display:none;	*/
+    float:left;
+	height: 36px;	
+	list-style: none;
+	margin-right: -160px;
+	margin-top: 0px;
+	margin-left: 110px;
+	width: 115px;	
+	color:#FFFFFF;		
+	padding-top: 2px;   		
+	}
+	
+#menuPie ul li.menuinferior {
+		background:url(../images/botones/boton-05.png) no-repeat;		
+}
+	
+	#menuPie ul li a {	       		
+	display:block;
+	height: 36px;
+	margin-left: 28px;
+	margin-top:  -5px;
+	width: 30px;		
+	color:#FFFFFF;		
+	font:  1.8em "Trajan Pro","Lucida Sans Unicode" , "Lucida Grande", Arial, Helvetica, sans-serif;
+	/*font-size: 32px;*/
+	font-style:inherit;	
+	text-decoration:none;
+	padding-left: 5px;
+		
+	}			
+	#menuPie  ul li.remove {
+	      display:none;	
+	}
+	
+	#menuPie  li.sombra2 {
+        	background:url(../images/botones/boton-04.png) no-repeat;	
+			margin-top: -5px;	
+			padding-left:5px;
+			padding-top:8px;	
+	}
+	
+	
+	.botonsobre{
+		background:url(../images/botones/boton-04.png) no-repeat;
+		z-index: 2;
+	}
+	
+	#menuPie ul li:hover{
+	}
+	
+	
+	
+	
+body.ie7 #header #signUp { width: 960px; clear: none;  background:#FFF;}
+body.ie7 #header div.container { position: relative; background:#FFF;}
+body.oldie #header div.slim.container { margin-left: -20px; background:#FFF; margin-top:30px;}
+
+body.ie6 { background: #fff; }
+hr { border: solid #ddd; border-width: 3px 0 0; clear: both; margin: 12px 0 18px; height: 0;  margin-left: -50px; }
+ul li a img { border:0px; margin-left:55px; margin-top:3px; display:block;   }
+
+/* Container */
+div.container { position: relative; width: 1050px; margin: 0 auto; padding: 0; }
+body.ie8 div.container { position: static; }
+
+div.container.slim { 
+    position: relative; 
+    width: 940px;
+    margin: 0 auto;
+    padding: 0;
+	margin-top:30px;
+}
+body.ie8 div.container.slim { position: static; }
+.spacer
+{
+  height: 66px;	
+}
+ #error {
+	    height:100px;
+	    width:400px;
+		border-radius: 5px;			  
+		background:olive;
+		text-align:center;
+	  }
+  
+  #error>p{
+	 color:#D00;  
+	 
+  }

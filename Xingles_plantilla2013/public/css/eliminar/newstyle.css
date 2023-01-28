@@ -1,0 +1,44 @@
+.leftcloser {
+	margin-left:-15px;
+	
+}
+
+ul.disc {
+	list-style-type:disc; 
+	list-style-position:inside; 
+	font-size:14px;
+	padding:0;
+	margin:0;
+}
+
+h1.smaller {
+	font-size:40px;
+}
+.newrow {
+	margin:0 0 18px -10px !important;
+	background:#8AC63F;
+}
+
+.addpadding {
+	padding:10px;
+}
+
+.nomargin {
+	margin:0 !important;
+}
+
+.newinput {
+	margin-bottom:5px !important;
+	margin-right:10px;
+	width:330px !important;
+}
+.atbtm {
+	float:left;
+	margin:13px 0 0 2px;
+}
+
+.absolute {
+	position:absolute;
+	bottom:40px;
+	right:0;
+}

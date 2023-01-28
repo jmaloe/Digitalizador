@@ -1,0 +1,47 @@
+
+#plans ul { background:#fff !important; box-shadow:none !important; height:auto !Important;}
+#plans ul li h3 {font-size:25px !important;}
+#plans ul li h3 span {font-size:17px !important;}
+#plans ul li h5 {font-size:13px !Important; color:#999999 !important; text-align:center !Important; margin-bottom:0px;}
+#plans ul li h4 { text-align:center !important; font-size:14px !important; color:#355400 !important; margin:82px 0 25px 0 !important; display:block !important;}
+div#plans ul li a.button {padding:7px 17px !Important; font-size:18px !Important; margin-bottom:30px !Important; margin-top:20px !important;}
+div#plans ul li a.secondary { background:#207eb4; font-size:14px !Important; color:#fff; padding:7px 13px !Important; margin-bottom:10px !Important;}
+div#plans ul li a.open-modal { background:#0d0d0d !Important;  margin-bottom:10px !Important;}
+#plans ul li h4 span {font-weight:bold;}
+#plans ul li {padding:20px 0 !Important; height:auto !Important; text-align:center !Important; border-radius:6px 6px 6px 6px !Important; box-shadow:0 0 8px rgba(0, 0, 0, 0.15);}
+#plans ul li.bluebox {width:269px !Important; margin-top: -5px !important; background:url(/public/images/plans/blueboxbg.png) left top no-repeat !Important;}
+#plans ul li.greenbox {width:276px !Important; border:1px solid #77B014 !Important; background:url(/public/images/plans/greenboxbg.png) left top no-repeat !Important;  }
+#plans ul li.blackbox {width:254px !Important; margin-top: -6px !important; background:url(/public/images/plans/blackboxbg.png) left top no-repeat !Important; }
+
+div#plans ul li.community ul li {font-weight:normal !Important; font-size:15px !important;}
+
+#plans ul li.bluebox h4 {margin:68px 0 20px 0 !important; color:#004263 !important;}
+#plans ul li.blackbox h4 {margin:68px 0 20px 0 !important; color:#fff !important;}
+div#plans ul li.community {margin:-55px 0 0 0 !Important;}
+
+div#plans {margin-top:65px !Important;}
+
+#plans ul li ul.check li {height:45px !Important; box-shadow:none !important; margin:0px !important;
+ padding:0px !important; text-align:center !important; border-top:1px solid #eee9e9 !Important; line-height:45px; border-radius:0px !Important;}
+ 
+#sidetext {float:left; width:220px; margin-left:-67px; padding-top:302px; background:transparent !important; margin-top: 2px;}
+#sidetext ul {background:transparent !important;}
+#sidetext ul li {height:45px !Important; background:transparent !important; box-shadow:none !important; margin:0px !important; color:#999999 !Important; font-size:14px !Important;
+padding:0px 25px 0 0 !important; text-align:right !important; border-top:1px solid #eee9e9 !Important; line-height:45px; border-radius:0px !Important;}
+#sidetext ul li  span {color:#2e2e2e !important; font-size:20px !Important; font-weight:bold !Important;}
+ 
+#sidetext ul li img {margin-right:-16px; position:relative;}
+#sidetext ul li a {position:relative;}
+span.boxgrey {display:block; width:200px; background:#F1F4F7; padding:10px; position:absolute; left:10px; border:1px solid #c1c1c1; 
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+-moz-box-shadow: 0 0 5px #888;
+-webkit-box-shadow: 0 0 5px#888;
+box-shadow: 0 0 5px #888;
+z-index: 100;}
+
+#sidetext ul li a.info span.boxgrey {display:none;}
+#sidetext ul li a.info:hover span.boxgrey {display:block;}
+
+

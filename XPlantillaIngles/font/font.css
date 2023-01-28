@@ -1,0 +1,39 @@
+/*!Created: 13-03-2014 | Diseño de Información | CEDUCAD | Universidad Autónoma de Chiapas
+//@Author: andor | Antonio de Jesús López López | andor1327@hotmail.com | 961 152 46 57
+//@Version: 1.0 09042014 
+//@Version: 1.1 24042014 
+*/
+@charset "utf-8";
+@font-face {
+	font-family: 'gandhi_sansregular';
+	src: url('gandhisans-regular-webfont.eot');
+	src: url('gandhisans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('gandhisans-regular-webfont.woff') format('woff'),
+		 url('gandhisans-regular-webfont.ttf') format('truetype'),
+		 url('gandhisans-regular-webfont.svg#gandhi_sansregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'starkregular';
+	src: url('stark-webfont.eot');
+	src: url('stark-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('stark-webfont.woff') format('woff'),
+		 url('stark-webfont.ttf') format('truetype'),
+		 url('stark-webfont.svg#starkregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'flexslider-icon';
+	src:url('flexslider-icon.eot');
+	src:url('flexslider-icon.eot?#iefix') format('embedded-opentype'),
+		url('flexslider-icon.woff') format('woff'),
+		url('flexslider-icon.ttf') format('truetype'),
+		url('flexslider-icon.svg#flexslider-icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

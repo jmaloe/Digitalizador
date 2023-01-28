@@ -1,0 +1,130 @@
+div.box {
+    position: relative;
+    z-index: 900; 
+}
+
+body.oldie div.box {
+    border: 0px solid #ccc;
+}
+
+div.full {
+    width: 940px;
+    margin: 0 auto; 
+}
+
+#ruta {
+	 float:right;
+	 color:#686868;
+	 text-transform: capitalize;
+	 font: 0.8em  "Times New Roman", Times, serif;
+	 margin-right:50px;
+	 }
+
+.overlay {
+    padding:40px 40px 40px 35px;  	 
+    width:576px;
+    display:none;
+    background-image:url(../images/video.png);	  
+	left:20%;
+}
+
+.close {
+    background:url(../images/close.png) no-repeat;
+    position:absolute;
+    top:5px;
+    right:-7px;
+    display:block;
+    width:35px;
+    height:35px;
+    cursor:pointer;
+}
+
+.player {
+    height:450px;
+    display:block;
+	display:none;
+}
+
+.video{
+	cursor:pointer;
+	width:20px;
+	height:20px; 			
+	background:url(../images/ico-video.png) no-repeat;
+	}
+	
+.apple_overlay {
+    /* initially overlay is hidden */
+    display:none;
+    /* growing background image */
+    background:url(../images/white.png);
+    /*
+      width after the growing animation finishes
+      height is automatically calculated
+      */
+    width:640px;
+    /* some padding to layout nested elements nicely  */
+    padding:35px;
+    /* a little styling */
+    font-size:11px;
+}
+
+/* default close button positioned on upper right corner */
+.apple_overlay .close {
+    background:url(../images/close.png) no-repeat;
+    position:absolute; right:5px; top:5px;
+    cursor:pointer;
+    height:35px;
+    width:35px;
+}
+  #overlay {
+    background:url(../images/white.png);
+	width:600px;
+  }
+  /* container for external content. uses vertical scrollbar, if needed */
+  div.contentWrap {
+    height:450px;     
+   /* overflow:scroll;*/
+  }
+  
+  #usuario 
+  {	    
+	position:relative;	
+	width: 160px;
+	height: 15px;
+	left: 50%;
+	margin-left: -490px;
+	right:-50%;
+	top: 2px;
+	margin-top:-15px;
+    z-index:9000;
+  }
+   #usuario a{
+    background:#000;
+	font-size:12px;
+	text-decoration:none;
+	color:#FFF;
+   }
+    #usuario a:hover{
+     text-decoration:underline;
+   }
+#tooltip {
+    display:none;
+    background-color:#ffa;
+    border:1px solid #cc9;
+    padding:3px;
+    font-size:13px;
+    -moz-box-shadow: 2px 2px 11px #666;
+    -webkit-box-shadow: 2px 2px 11px #666;
+	z-index:900000;
+}
+
+#herramientas
+{ 
+overflow-x: hidden; 
+overflow-y: auto; 
+}
+.removeMenuLateral 
+{
+	display:none;
+   
+}
